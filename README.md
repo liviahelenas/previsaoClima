@@ -4,7 +4,7 @@ Aplicação web que permite consultar as **condições climáticas em tempo real
 
 🔗 **[Acesse o projeto ao vivo](https://liviahelenas.github.io/previsaoClima/index.html)**
 
----
+
 
 ## ✨ Funcionalidades
 
@@ -12,7 +12,7 @@ Aplicação web que permite consultar as **condições climáticas em tempo real
 - 🌡️ Exibição da temperatura em graus Celsius
 - 🖼️ Ícone dinâmico de acordo com as condições climáticas
 
----
+
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -24,7 +24,7 @@ Aplicação web que permite consultar as **condições climáticas em tempo real
 | **Webpack** | Bundling do projeto |
 | **OpenWeatherMap API** | Dados meteorológicos em tempo real |
 
----
+
 
 ## 👩‍💻 Autora
 
