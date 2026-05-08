@@ -13,9 +13,6 @@ Aplicação web que permite consultar as **condições climáticas em tempo real
 - 🖼️ Ícone dinâmico de acordo com as condições climáticas
 
 
-
-## 🛠️ Tecnologias utilizadas
-
  
 ## 🛠️ Tecnologias Utilizadas
  
